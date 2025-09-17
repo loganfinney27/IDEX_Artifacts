@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Our American Artifacts (wt).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Our American Artifacts (wt)"
             }
           },
           {
@@ -145,11 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Our American Artifacts (wt).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Our American Artifacts (wt)"
             }
           },
           {
@@ -173,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Our American Artifacts (wt).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Our American Artifacts (wt)"
             }
           }
         ]
@@ -197,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b13b5cb435b391d",
+  "active": "303b125ca93159de",
   "lastOpenFiles": [
     "Our American Artifacts (wt).md",
     "PBS America @ 250.md",
