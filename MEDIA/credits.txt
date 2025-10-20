@@ -1,0 +1,26 @@
+LOCATION	ORGANIZATION	NAME
+POCATELLO	POCATELLO HIGH SCHOOL	Shawn Phelps
+	POCATELLO SCOTTISH RITE	John Warner
+FRANKLIN 	IDAHO STATE HISTORICAL SOCIETY	Susan Hawkes*
+		Shawnee Hawkes
+RIGBY	FARNSWORTH TV & PIONEER MUSEUM	Leon Guyman*
+		Pat Lyn Scott*
+		Sheldon Hart
+FILER	TWIN FALLS COUNTY HISTORICAL MUSEUM	Ashley Haycock
+PIERCE	JOHN BRADBURY LOGGING MUSEUM	*
+		Bernice Pullen
+		John Bradbury
+OROFINO	CLEARWATER HISTORICAL MUSEUM	Tammy Gilmer
+		Donna Leach
+GENERAL	IDAHO STATE HISTORICAL SOCIETY	Emily Sears
+		Nicole Inghilterra
+		Anthony Parry
+		Keith Petersen
+	WHITE HOUSE HISTORICAL ASSOCIATION	Alexandra Lane
+	WASHINGTON STATE UNIVERSITY	Ryan Booth*
+	BOISE PUBLIC LIBRARY	Downtown Location
+NAME	CREDIT	LOCATION
+WTroy Shreve	Videographer	Crouch
+Morgan McCollum	Videographer	Franklin, Rigby
+Aaron Kunz	Videographer	Filer
+Jon Fosselman	Videographer	Pierce, Orofino, Moscow
