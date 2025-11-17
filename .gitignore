@@ -1,8 +1,12 @@
 _ShareBrowserVolumeUID_
 .Trash/
 .TemporaryItems/
+*.db
 MEDIA/FOOTAGE/*/
-MEDIA/IMAGES/Library of Congress
+MEDIA/ARCHIVAL/*/
 PROJECTS/*
 LOGISTICS/ADMIN
-*.db
+*.tif
+*.prproj
+*.aep
+*.ai
