@@ -1,29 +1,46 @@
-LOCATION	ORGANIZATION	NAME
+SPECIAL THANKS: 
 
-	IDAHO STATE HISTORICAL SOCIETY	Emily Sears
-		Nicole Inghilterra
-		Anthony Parry
-		Keith Petersen
-	WHITE HOUSE HISTORICAL ASSOCIATION	Alexandra Lane
-PULLMAN	WASHINGTON STATE UNIVERSITY	Ryan Booth*
-BOISE 	PUBLIC LIBRARY	Downtown Location
-POCATELLO	POCATELLO HIGH SCHOOL	Shawn Phelps
-	POCATELLO MASONIC LODGE	John Warner
-FRANKLIN 	IDAHO STATE HISTORICAL SOCIETY	Susan Hawkes*
-		Shawnee Hawkes
-RIGBY	FARNSWORTH TV & PIONEER MUSEUM	Leon Guyman*
-		Pat Lyn Scott*
-		Sheldon Hart
-FILER	TWIN FALLS COUNTY HISTORICAL MUSEUM	Ashley Haycock
-PIERCE	JOHN BRADBURY LOGGING MUSEUM	Bernice Pullen*
-		John Bradbury*
-		*
-OROFINO	CLEARWATER HISTORICAL MUSEUM	Tammy Gilmer
-		Donna Leach
+Keith Petersen
 
-NAME	CREDIT	LOCATION
-Troy Shreve	Videographer	Crouch
-Morgan McCollum	Videographer	Franklin, Rigby
-Aaron Kunz	Videographer	Filer
-Jon Fosselman	Videographer	Pierce, Orofino, Moscow
-Logan Finney	Videographer	Boise
+BOISE PUBLIC LIBRARY
+Downtown Location
+
+CLEARWATER HISTORICAL MUSEUM
+Tammy Gilmer
+Donna Leach
+
+FARNSWORTH TV & PIONEER MUSEUM	
+*Leon Guyman*
+*Pat Lyn Scott*
+Sheldon Hart
+
+HISTORIC FRANKLIN PROPERTIES	
+*Susan Hawkes*
+Shawnee Hawkes
+
+IDAHO STATE HISTORICAL SOCIETY
+Emily Sears
+Nicole Inghilterra
+Anthony Parry
+
+J. HOWARD BRADBURY MEMORIAL LOGGING MUSEUM
+*Bernice Pullen*
+*John Bradbury*
+**
+
+POCATELLO HIGH SCHOOL
+Shawn Phelps
+
+POCATELLO SCOTTISH RITE OF FREEMASONRY
+John Warner
+
+TWIN FALLS COUNTY HISTORICAL MUSEUM
+Ashley Haycock
+
+WASHINGTON STATE UNIVERSITY
+*Ryan Booth*
+
+WHITE HOUSE HISTORICAL ASSOCIATION
+Alexandra Lane
+
+###
