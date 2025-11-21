@@ -5,7 +5,7 @@ _ShareBrowserVolumeUID_
 MEDIA/FOOTAGE/*/
 MEDIA/ARCHIVAL/*/
 PROJECTS/*/*/
-LOGISTICS/ADMIN
+LOGISTICS/FILES
 *.tif
 *.gif
 *.mp4
