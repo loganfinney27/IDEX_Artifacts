@@ -4,7 +4,7 @@ _ShareBrowserVolumeUID_
 *.db
 MEDIA/FOOTAGE/*/
 MEDIA/ARCHIVAL/*/
-PROJECTS/*
+PROJECTS/*/
 LOGISTICS/ADMIN
 *.tif
 *.prproj
